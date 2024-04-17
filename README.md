@@ -1,3 +1,2 @@
-# -.git-config
-git config user.name YourName git config user.email YourEmail
-。
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py && python get-pip
